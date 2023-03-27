@@ -1,6 +1,10 @@
 # bash-template
 A Template for coding in Bash Shell
 
+## Lesson 3
+Create a Makefile to do something for us i.e Build container
+
+
 ## Lesson 2
 
 ## Lesson 1

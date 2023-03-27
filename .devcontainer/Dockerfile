@@ -6,3 +6,4 @@ WORKDIR /src
 # [Optional] Uncomment this section to install additional OS packages you may want.
 #
 # RUN apk add --no-cache <your-package-list-here>
+# RUN apk add --no-cache vim
